@@ -1,0 +1,38 @@
+# addon: nv_modulepresets de_de
+
+nv_modulepresets = Modulvorlagen
+nv_modulepresets_key = nvModulePresets
+nv_modulepresets_config = Konfiguration
+nv_modulepresets_modules = Modul
+nv_modulepresets_help = Hilfe
+
+nv_modulepresets_add = Modulvorlage hinzufügen
+nv_modulepresets_edit = Modulvorlage bearbeiten
+nv_modulepresets_title = Titel
+nv_modulepresets_module = Modul
+nv_modulepresets_description = Beschreibung
+nv_modulepresets_prio = Prioriät
+nv_modulepresets_properties = Eigenschaften
+nv_modulepresets_status = Status
+nv_modulepresets_status_active = Aktiv
+nv_modulepresets_status_inactive = Inaktiv
+
+nv_modulepresets_module_id = Modul ID
+nv_modulepresets_module_name = Modul Name
+nv_modulepresets_thumbnail = Vorschaubild
+nv_modulepresets_thumbnail_delete = Aktuelles Vorschaubild löschen
+nv_modulepresets_description = Beschreibung
+nv_modulepresets_module_edit = Modulvorschau bearbeiten
+
+nv_modulepresets_config_items_per_row = Module pro Zeile ausgeben
+nv_modulepresets_config_show_search = Suche anzeigen
+nv_modulepresets_config_overwrite_gridblock = Modulauswahl auch für Gridblock anwenden
+nv_modulepresets_config_show_only_gridblock = Bei Modulauswahl (System) nur Gridblock anzeigen
+nv_modulepresets_config_hide_images = Bilder verbergen
+nv_modulepresets_config_show_as_list = Als Liste anzeigen (Bilder werden ausgeblendet)
+
+nv_modulepresets_modules_choose = Modulauswahl
+nv_modulepresets_modules_start_searching = Suchbegriff eingeben ...
+
+nv_modulepresets_mod_choose_modul = - Inhaltsblock wählen -
+nv_modulepresets_mod_copy_insertmodul = Inhaltsblock &raquo;###modname###&laquo; mit der ID ####modid### einfügen

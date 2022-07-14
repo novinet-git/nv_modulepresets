@@ -1,0 +1,1 @@
+<?php $this->setConfig('run_update',true);
